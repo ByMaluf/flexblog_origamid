@@ -1,0 +1,33 @@
+@import url(/css/superinfo.css);
+@import url(/css/menu.css);
+@import url(/css/introcucao.css);
+@import url(/css/sobre.css);
+@import url(/css/produtos.css);
+@import url(/css/preco.css);
+@import url(/css/qualidade.css);
+@import url(/css/newsletter.css);
+@import url(/css/footer.css);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Nunito", Helvetica, Arial, sans-serif;
+    color: #222222;
+}
+
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
